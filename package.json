@@ -1,0 +1,17 @@
+{
+  "name": "bmi-calculator",
+  "version": "1.0.0",
+  "description": "BMI Calculator - เครื่องคำนวณค่าดัชนีมวลกาย",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve .",
+    "build": "echo 'Static site - no build needed'",
+    "start": "serve ."
+  },
+  "keywords": ["bmi", "calculator", "health", "fitness", "thai"],
+  "author": "BMI Calculator Team",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
